@@ -5,3 +5,6 @@ lightgbm
 xgboost
 notebook
 openpyxl
+matplotlib
+shap
+seaborn
