@@ -20,14 +20,15 @@
     ```
 ## Установка бібліотек
 
-1. Встановити git https://git-scm.com/book/en/v2/Getting-Started-Installing-Git
-2. Клонувати репозиторій:
-   git clone https://github.com/VChumcachenko/BasicModels.git
-3. Встановити всі необхідні бібліотеки:
+1. Оновити репозиторій:
+   ```bash
+   git pull
+   ```
+2. Встановити всі необхідні бібліотеки:
    ```bash
     pip install -r requirements.txt
     ```
-4. Запустити ноутбук
+3. Запустити ноутбук
    ```bash
     jupyter notebook
     ```
